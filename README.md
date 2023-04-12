@@ -1,7 +1,3 @@
-# Hitesh Modi
-
-![Profile Picture](https://www.hiteshmodi.in/img/profile.jpg)
-
 ## Welcome to Hitesh Modi's GitHub Profile 👋
 
 Hello there! I'm Hitesh Modi, a Full Stack Developer and a technology enthusiast, passionate about creating web and mobile applications that make a difference. You can find more about me at [www.hiteshmodi.in](https://www.hiteshmodi.in).
@@ -15,12 +11,11 @@ Hello there! I'm Hitesh Modi, a Full Stack Developer and a technology enthusiast
 ### 💼 Skills
 
 - **Languages**: JavaScript, TypeScript, Python, C++
-- **Frontend**: React, Redux, Angular, Vue.js, HTML5, CSS3, Bootstrap, Material-UI, Tailwind CSS
-- **Backend**: Node.js, Express, Django, Flask
-- **Databases**: MongoDB, MySQL, PostgreSQL, Firebase
-- **Mobile**: React Native, Flutter
-- **Tools**: Git, GitHub, GitLab, Docker, Kubernetes, Jenkins, Travis CI
-- **Cloud**: AWS, Google Cloud Platform, Azure, Heroku
+- **Frontend**: React, NextJs, Redux, HTML5, CSS3, Bootstrap, Tailwind CSS
+- **Backend**: Node.js, Express
+- **Databases**: MongoDB, MySQL, Firebase
+- **Mobile**: React Native
+- **Tools**: Git, GitHub, GitLab
 
 ### 📦 Projects
 
