@@ -4,9 +4,9 @@ Hello there! I'm Hitesh Modi, a Full Stack Developer and a technology enthusiast
 
 ### 🌐 Connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/hitesh-modi-0624/)
-- [Twitter](https://twitter.com/hiteshmodi0624)
-- [Email](mailto:hiteshmodi0624@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/hiteshmodi0624/)
+- [Twitter](https://twitter.com/hiteshmodi_)
+- [Email](mailto:mail@hiteshmodi.in)
 
 ### 💼 Skills
 
