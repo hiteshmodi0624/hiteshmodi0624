@@ -21,9 +21,37 @@ Hello there! I'm Hitesh Modi, a Full Stack Developer and a technology enthusiast
 
 Some of my projects include:
 
-1. **Project One** - A web application that helps users manage their tasks.
-2. **Project Two** - A mobile app for tracking and managing personal finances.
-3. **Project Three** - A collaborative platform for developers to share code snippets and solutions.
+# Food Ordering Website
+
+This is a simple food ordering website developed using React, Redux, and Firebase. The website enables users to order food online and get it delivered to their doorstep. The following technologies were used in the project:
+
+* React: for building the user interface and managing components state.
+* Redux.js: for managing global state and actions management.
+* Firebase: for database management.
+
+The project can be found in the following Github repository: https://github.com/hiteshmodi0624/Food-Ordering-System
+
+# E-Commerce Website
+
+This is a full-stack e-commerce website developed using Node.js, Express, and EJS templating engine. The website features include pagination, cart management, user authentication, product management, and payment gateway integration. The following technologies were used in the project:
+
+* Node.js: for server-side scripting.
+* Express: for building the web application.
+* EJS: for templating the web pages.
+* MongoDB: as the database with Mongoose as the ORM for data operations.
+
+The project can be found in the following Github repository: https://github.com/hiteshmodi0624/Shop
+
+# Favourites Places
+
+This is a cross-platform mobile application for Android and iOS platforms developed using React Native. The application allows users to store and display their favorite locations along with images. The following technologies were used in the project:
+
+* React Native: for building the mobile application.
+* Expo: for simplifying the build process and enhancing development speed.
+* Google API: for leveraging location services for displaying maps.
+
+The project also incorporates native device features such as camera and location services to enable users to capture and store their favorite locations along with images. The project can be found in the following Github repository: https://github.com/hiteshmodi0624/Favourite-Places
+
 
 ...and many more available on my [GitHub](https://github.com/hiteshmodi0624?tab=repositories).
 
