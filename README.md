@@ -21,6 +21,19 @@ Hello there! I'm Hitesh Modi, a Full Stack Developer and a technology enthusiast
 
 Some of my projects include:
 
+# PitchedInn - A Social Media Platform for Startup & Business Enthusiasts
+
+This is a simple food ordering website developed using React, Redux, and Firebase. The website enables users to order food online and get it delivered to their doorstep. The following technologies were used in the project:
+
+* Developing a social media platform for connecting entrepreneurs, investors, and collectors.
+* Implemented features such as user authentication, user creation, posting, user follow, user edit, real-time
+messaging, and feed generation.
+* Several features are currently running exclusively in development mode, and more features are being added.
+* Technologies used: Next.js, React.js, APIs, AWS S3, Vercel, TailwindCSS, Websockets, Prisma, MongoDB, Zod, TRPC, TypeScript, NextAuth.
+* Github Repository: https://github.com/hiteshmodi0624/PitchedInn
+
+The project can be found in the following Github repository: https://github.com/hiteshmodi0624/Food-Ordering-System
+
 # Food Ordering Website
 
 This is a simple food ordering website developed using React, Redux, and Firebase. The website enables users to order food online and get it delivered to their doorstep. The following technologies were used in the project:
