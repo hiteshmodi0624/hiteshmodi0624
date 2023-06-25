@@ -32,8 +32,6 @@ messaging, and feed generation.
 * Technologies used: Next.js, React.js, APIs, AWS S3, Vercel, TailwindCSS, Websockets, Prisma, MongoDB, Zod, TRPC, TypeScript, NextAuth.
 * Github Repository: https://github.com/hiteshmodi0624/PitchedInn
 
-The project can be found in the following Github repository: https://github.com/hiteshmodi0624/Food-Ordering-System
-
 # Food Ordering Website
 
 This is a simple food ordering website developed using React, Redux, and Firebase. The website enables users to order food online and get it delivered to their doorstep. The following technologies were used in the project:
