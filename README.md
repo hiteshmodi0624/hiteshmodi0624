@@ -66,16 +66,4 @@ The project also incorporates native device features such as camera and location
 
 ...and many more available on my [GitHub](https://github.com/hiteshmodi0624?tab=repositories).
 
-### 📈 GitHub Stats
-
-![Hitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiteshmodi0624&count_private=true&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshmodi0624&layout=compact&theme=radical)
-
-### 🤝 Contributions
-
-I'm always looking for interesting projects to collaborate on, so feel free to reach out if you'd like to work together. I'm open to contributing to open-source projects or working on personal projects.
-
-### ⚡ Fun fact
-
-I love playing video games and exploring the outdoors. When I'm not coding, you can find me hiking, camping, or traveling to new places.
