@@ -30,7 +30,7 @@ This is a simple food ordering website developed using React, Redux, and Firebas
 messaging, and feed generation.
 * Several features are currently running exclusively in development mode, and more features are being added.
 * Technologies used: Next.js, React.js, APIs, AWS S3, Vercel, TailwindCSS, Websockets, Prisma, MongoDB, Zod, TRPC, TypeScript, NextAuth.
-* Github Repository: https://github.com/hiteshmodi0624/PitchedInn
+* Github Repository: https://github.com/hiteshmodi0624/PitchedInn.
 
 # Food Ordering Website
 
