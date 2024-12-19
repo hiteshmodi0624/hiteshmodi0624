@@ -1,69 +1,82 @@
-## Welcome to Hitesh Modi's GitHub Profile 👋
+# Hitesh Modi's GitHub Profile
 
-Hello there! I'm Hitesh Modi, a Full Stack Developer and a technology enthusiast, passionate about creating web and mobile applications that make a difference. You can find more about me at [www.hiteshmodi.in](https://www.hiteshmodi.in).
+Welcome to my GitHub! I'm a passionate software developer with expertise in full-stack development, cloud technologies, and AI integrations. I specialize in building scalable, high-performance web and mobile applications. You can explore my projects, code contributions, and more on this profile.
 
-### 🌐 Connect with me:
+## 📚 About Me
 
-- [LinkedIn](https://www.linkedin.com/in/hiteshmodi0624/)
-- [Twitter](https://twitter.com/hiteshmodi_)
-- [Email](mailto:mail@hiteshmodi.in)
+I am a Software Developer with experience in both front-end and back-end development. I thrive on problem-solving and developing innovative solutions using the latest technologies. I have a strong foundation in **React**, **React Native**, **Node.js**, and **AWS** technologies, with a special interest in **AI integrations** and **map-based applications**.
 
-### 💼 Skills
+## 💼 Experience
 
-- **Languages**: JavaScript, TypeScript, Python, C++
-- **Frontend**: React, NextJs, Redux, HTML5, CSS3, Bootstrap, Tailwind CSS
-- **Backend**: Node.js, Express
-- **Databases**: MongoDB, MySQL, Firebase
-- **Mobile**: React Native
-- **Tools**: Git, GitHub, GitLab
+### Digital Alpha Technologies (Feb 2024 - Present)  
+**Software Developer (Full Time) | Remote**  
+- Spearheaded the migration of a navigation application from **Flutter** to **React Native**, delivering a production-ready app in 3 months, improving development efficiency.
+- Developed **rnmapbox-ditch**, a custom library extending **@rnmapbox**, enabling features like **Smart ETA Calculations**, **noseline computation**, and **breadcrumb tracking**, improving app functionality by 25%.
+- Integrated **AI-driven features** using **ChatGPT**, applying **prompt engineering** to automate user interactions and enhance engagement by 25%.
+- Optimized CPU and memory efficiency, reducing resource consumption by 50% while maintaining high performance.
+- Mentored a junior developer, contributing to a 20% increase in team productivity.
 
-### 📦 Projects
+### XMB Technology (Jan 2024 - Aug 2024)  
+**Full Stack Developer (Part Time) | Remote**  
+- Developed 10+ **APIs** and **email templates** using **TypeScript** and **React**, adhering to **SOLID principles** and best practices.
+- Ensured robustness by conducting **Jest testing** across 50+ test cases.
 
-Some of my projects include:
+### Umego (Sept 2023 - Dec 2024)  
+**Full Stack Developer (Part Time) | Remote**  
+- Improved **user engagement** by 15% by creating visually appealing and user-friendly interfaces.
+- Enhanced admin panel efficiency by 20% with features like **filtering** while image uploading.
+- Designed new interfaces and backend components using **Next.js 13**, **Node.js**, and **TypeScript**.
 
-# PitchedInn - A Social Media Platform for Startup & Business Enthusiasts
+### MindGinie (Jun 2023 - Aug 2023)  
+**Software Engineering Intern | Remote**  
+- Engineered 3 new engaging games using **React Native** and **CSS** design principles.
+- Enhanced performance by **caching**, reducing initial data retrieval time by 90%.
 
-This is a simple food ordering website developed using React, Redux, and Firebase. The website enables users to order food online and get it delivered to their doorstep. The following technologies were used in the project:
+### Nathead (Jul 2021 - Jun 2023)  
+**Full Stack Developer (Freelancer) | Remote**  
+- Created and maintained 15+ websites using **HTML**, **CSS**, and **JavaScript**.
+- Integrated **SDLC** with project managers, improving customer satisfaction by 20%.
 
-* Developing a social media platform for connecting entrepreneurs, investors, and collectors.
-* Implemented features such as user authentication, user creation, posting, user follow, user edit, real-time
-messaging, and feed generation.
-* Several features are currently running exclusively in development mode, and more features are being added.
-* Technologies used: Next.js, React.js, APIs, AWS S3, Vercel, TailwindCSS, Websockets, Prisma, MongoDB, Zod, TRPC, TypeScript, NextAuth.
-* Github Repository: https://github.com/hiteshmodi0624/PitchedInn.
+## 💡 Projects
 
-# Food Ordering Website
+### [PitchedInn - A Social Media Platform for Startup and Business Enthusiasts](https://github.com/hiteshmodi0624/PitchedInn)  
+A social media platform built for startups and business enthusiasts to connect and share ideas.
+- **Tech Stack**: **Next.js 13**, **TypeScript**, **Prisma**, **MongoDB**, **TRPC**, **AWS S3**.
+- Features: **User feed**, **post creation**, **real-time messaging**.
 
-This is a simple food ordering website developed using React, Redux, and Firebase. The website enables users to order food online and get it delivered to their doorstep. The following technologies were used in the project:
+### [Concierge Messaging App](https://github.com/hiteshmodi0624/Concierge-Messaging-App)  
+A messaging app designed to reduce the advertiser's workload using bot-powered communication.
+- **Tech Stack**: **T3 Tech Stack**.
+- Features: **Real-time messaging**, **bot-powered communication**.
 
-* React: for building the user interface and managing components state.
-* Redux.js: for managing global state and actions management.
-* Firebase: for database management.
+## 🛠️ Skills
 
-The project can be found in the following Github repository: https://github.com/hiteshmodi0624/Food-Ordering-System
+- **Languages & Frameworks**: **C**, **C++**, **TypeScript**, **JavaScript**, **Python**, **React**, **React Native**, **Next.js**, **Node.js**, **Express.js**, **Flutter**.
+- **Technologies**: **AWS (Amplify, S3, Lambda, API Gateway)**, **Mapbox GL**, **OpenAI (ChatGPT)**, **PostgreSQL**, **MongoDB**, **SQL**.
+- **Tools**: **Git**, **GitHub**, **Resend**, **Zoho**, **Retool**, **Webflow**, **Wized**.
+- **Specializations**: **Prompt Engineering**, **API Development**, **Advanced Map Integrations**, **Performance Optimization**.
 
-# E-Commerce Website
+## 🎓 Education
 
-This is a full-stack e-commerce website developed using Node.js, Express, and EJS templating engine. The website features include pagination, cart management, user authentication, product management, and payment gateway integration. The following technologies were used in the project:
+**National Institute of Technology, Kurukshetra**  
+_Bachelor of Technology (BTech) in Electrical Engineering_  
+**Dec 2020 - May 2024**  
+Current CGPA: **8.21/10**
 
-* Node.js: for server-side scripting.
-* Express: for building the web application.
-* EJS: for templating the web pages.
-* MongoDB: as the database with Mongoose as the ORM for data operations.
+## 🏆 Additional Achievements
 
-The project can be found in the following Github repository: https://github.com/hiteshmodi0624/Shop
+- **Global Rank 1559** in **Google Kickstart Round A 2023**, outperforming thousands of participants worldwide.
+- Solved over **500+ DSA** problems on **Leetcode**.
+- Achieved a personal best **Elo rating of 1500** in competitive **chess**.
 
-# Favourites Places
+## 📫 Get in Touch
 
-This is a cross-platform mobile application for Android and iOS platforms developed using React Native. The application allows users to store and display their favorite locations along with images. The following technologies were used in the project:
+- **Website**: [hiteshmodi.in](https://hiteshmodi.in)
+- **Email**: [mail@hiteshmodi.in](mailto:mail@hiteshmodi.in)
+- **Phone**: +91 9508213540
+- **LinkedIn**: [linkedin.com/in/hiteshmodi0624](https://linkedin.com/in/hiteshmodi0624)
+- **GitHub**: [github.com/hiteshmodi0624](https://github.com/hiteshmodi0624)
 
-* React Native: for building the mobile application.
-* Expo: for simplifying the build process and enhancing development speed.
-* Google API: for leveraging location services for displaying maps.
+---
 
-The project also incorporates native device features such as camera and location services to enable users to capture and store their favorite locations along with images. The project can be found in the following Github repository: https://github.com/hiteshmodi0624/Favourite-Places
-
-
-...and many more available on my [GitHub](https://github.com/hiteshmodi0624?tab=repositories).
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshmodi0624&layout=compact&theme=radical)
+Feel free to explore my repositories, contribute to my projects, or reach out for collaboration!
